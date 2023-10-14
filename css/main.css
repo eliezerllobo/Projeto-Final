@@ -1,0 +1,151 @@
+#banana {
+    color: #04BFAD;
+    font-size: 48px;
+    font-family: 'Oswald'
+        font-weight: 700;
+    /*margin-bottom: 22px;
+    -webkit-text-stroke: 2px #F2BB13;
+    text-stroke: 2px #F2BB13;*/
+}
+
+#borda{
+    border-radius: 30px
+}
+#borda2{
+    border-radius: 30px
+}
+
+#cor {
+    background-color: #0D0D0D;
+}
+
+
+#azul {
+    background-color: #04BFAD;
+}
+
+#verde {
+    color: green;
+}
+
+#laranja {
+    background-color: rgb(255, 166, 0);
+}
+
+#amarelo{
+    color: #F2BB13;
+}
+
+#branco {
+    background-color: white;
+}
+
+#corfonte1 {
+    font-size: 20px;
+    font-family: ;
+    color: white;
+}
+
+#regrastitulo {
+    color: #ffffff;
+    font-weight: 600;
+    line-height: 21px;
+    text-transform: uppercase;
+    padding-left: 20px;
+    position: relative;
+    font-family: "Oswald", sans-serif;
+}
+
+#regrastitulo2 {
+    position: absolute;
+    left: 0;
+    top: -6px;
+    height: 32px;
+    width: 4px;
+    background: #e53637;
+    content: "";
+}
+
+#collg8 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+#colmd8 {
+    -ms-flex: 0 0 66.666667%;
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+}
+
+#meuParagrafo {
+    -ms-flex: 0 0 75%;
+    flex: 0 0 75%;
+    max-width: 75%;
+}
+
+#formatacao{
+    color: #04BFAD;
+	font-weight: 600;
+	line-height: 21px;
+	text-transform: uppercase;
+	padding-left: 2px;
+	position: relative;
+	font-family: "Oswald", sans-serif;
+}
+
+/*CONTAINER NAVEBAR*/
+@media only screen and (min-width: 1200px) {
+	.container2 {
+		max-width: 1170px;
+		
+	}
+}
+
+@media only screen and (min-width: 1200px) {
+    .container3 {
+        max-width: 1510px;
+        background-color:#4B39BF
+		
+	}
+}
+
+.anime__details__text2 p {
+	color: #b7b7b7;
+	font-size: 15px;
+	line-height: 30px;
+}
+
+.anime__details__text3 p {
+	color: #b7b7b7;
+	font-size: 14px;
+	line-height: 28px;
+}
+
+.anime__details__text4 p {
+	color: #b7b7b7;
+	font-size: 14px;
+	line-height: 25px;
+}
+
+.anime__details__text5 p {
+	color: #b7b7b7;
+	font-size: 14px;
+	line-height: 22px;
+}
+.anime__details__text6 p {
+	color: #b7b7b7;
+	font-size: 14px;
+	line-height: 20px;
+}
+
+/* Estilos CSS para a página */
+
+
+.contact-info {
+    margin: 20px;
+}
+.map {
+    width: 100%;
+    height: 400px;
+}
